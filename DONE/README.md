@@ -1,3 +1,4 @@
-# THIS IS YOUR SET UP KIT
+# THIS IS YOUR COMPLETE SOUCRE CODE FOR THE PROJECT
 
-# have fun
+# have fun, stay productive & stay motivated.
+
